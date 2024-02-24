@@ -27,8 +27,9 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "Enjoy your stay!",
-  "This loadingscreen is made by Exsite"
+  "Аниме девочки дена царёва",
+  "Привет!! Как жизнь?",
+  "Добро пожаловать на Rehab Zone!"
 ];
 
 /**
